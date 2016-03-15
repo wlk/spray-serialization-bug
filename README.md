@@ -1,4 +1,4 @@
-
+Bug was reported here: https://github.com/spray/spray-json/issues/125
 
 Tests fails with exception
 
